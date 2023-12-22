@@ -1,3 +1,5 @@
+![OIP](https://github.com/Kevin-Kinyua/Kevin-Kinyua/assets/21689726/cc27f70d-68ce-4f63-b231-0f17520b16e6)
+
 - 👋 Hi, I’m Kevin Kinyua
 - 👀 I’m interested in Blockchain and web platforms 
 - 🌱 I’m currently learning Linked lists
