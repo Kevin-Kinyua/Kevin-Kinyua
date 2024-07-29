@@ -1,4 +1,4 @@
-![image](https://github.com/Kevin-Kinyua/Kevin-Kinyua/assets/21689726/d8c15c6f-8b6f-40dd-803a-8ca09f784ca6)
+![Git Banner](https://github.com/user-attachments/assets/0b315757-ac82-4c41-a4ea-c5014d906c6f)
 
 - 👋 Hi, I’m Kevin Kinyua
 - 👀 I’m interested in Blockchain and Web Solutions and APIs 
